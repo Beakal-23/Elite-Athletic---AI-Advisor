@@ -1,0 +1,31 @@
+athlete_id,age,sport,position,experience_level,goal,injury_status,available_days,equipment,notes
+A001,17,Basketball,Shooting Guard,Advanced,Improve agility,Minor Shoulder Pain,2,"Basketball, Gym Access",Parent/Coach Oversight Required
+A002,14,Basketball,Small Forward,Beginner,Increase speed,None,3,Basketball,Parent/Coach Oversight Required
+A003,14,Basketball,Shooting Guard,Beginner,Improve ball handling,Knee Recovery,6,Basketball,Parent/Coach Oversight Required
+A004,14,Basketball,Power Forward,Advanced,Improve defense,None,5,"Basketball, Gym Access",Parent/Coach Oversight Required
+A005,16,Basketball,Shooting Guard,Advanced,Build strength,Knee Recovery,3,"Basketball, Resistance Bands",Parent/Coach Oversight Required
+A006,15,Basketball,Center,Beginner,Increase vertical jump,Minor Shoulder Pain,5,"Basketball, Gym Access",Parent/Coach Oversight Required
+A007,13,Basketball,Point Guard,Beginner,Increase vertical jump,Ankle Recovery,5,"Basketball, Cones, Resistance Bands, Gym Access",Parent/Coach Oversight Required
+A008,16,Basketball,Point Guard,Advanced,Build strength,Knee Recovery,4,"Basketball, Gym Access",Parent/Coach Oversight Required
+A009,13,Basketball,Small Forward,Intermediate,Improve defense,Minor Shoulder Pain,5,"Basketball, Resistance Bands",Parent/Coach Oversight Required
+A010,16,Basketball,Shooting Guard,Intermediate,Improve conditioning,None,2,"Basketball, Gym Access",Parent/Coach Oversight Required
+A011,17,Basketball,Center,Advanced,Improve agility,None,3,"Basketball, Resistance Bands",Parent/Coach Oversight Required
+A012,13,Basketball,Small Forward,Beginner,Improve ball handling,Ankle Recovery,2,"Basketball, Gym Access",Parent/Coach Oversight Required
+A013,17,Basketball,Small Forward,Beginner,Improve conditioning,Ankle Recovery,6,Basketball,Parent/Coach Oversight Required
+A014,13,Basketball,Shooting Guard,Intermediate,Increase speed,None,6,"Basketball, Cones, Gym Access",Parent/Coach Oversight Required
+A015,16,Basketball,Point Guard,Beginner,Improve defense,None,4,"Basketball, Gym Access",Parent/Coach Oversight Required
+A016,15,Basketball,Point Guard,Beginner,Increase vertical jump,None,6,"Basketball, Cones",Parent/Coach Oversight Required
+A017,13,Basketball,Center,Beginner,Increase speed,None,2,"Basketball, Cones, Gym Access",Parent/Coach Oversight Required
+A018,15,Basketball,Power Forward,Intermediate,Increase speed,Knee Recovery,5,"Basketball, Gym Access",Parent/Coach Oversight Required
+A019,13,Basketball,Center,Beginner,Improve shooting,Ankle Recovery,5,"Basketball, Cones",Parent/Coach Oversight Required
+A020,15,Basketball,Power Forward,Advanced,Improve agility,None,4,"Basketball, Resistance Bands",Parent/Coach Oversight Required
+A021,13,Basketball,Center,Intermediate,Increase speed,Minor Shoulder Pain,3,"Basketball, Cones, Gym Access",Parent/Coach Oversight Required
+A022,14,Basketball,Power Forward,Beginner,Improve shooting,Minor Shoulder Pain,4,"Basketball, Gym Access",Parent/Coach Oversight Required
+A023,17,Basketball,Center,Advanced,Improve defense,Minor Shoulder Pain,5,"Basketball, Gym Access",Parent/Coach Oversight Required
+A024,13,Basketball,Point Guard,Intermediate,Improve shooting,Ankle Recovery,5,"Basketball, Cones, Gym Access",Parent/Coach Oversight Required
+A025,13,Basketball,Shooting Guard,Advanced,Build strength,Ankle Recovery,3,"Basketball, Cones, Resistance Bands, Gym Access",Parent/Coach Oversight Required
+A026,13,Basketball,Shooting Guard,Beginner,Improve ball handling,Ankle Recovery,5,"Basketball, Resistance Bands",Parent/Coach Oversight Required
+A027,14,Basketball,Power Forward,Intermediate,Improve conditioning,Ankle Recovery,4,"Basketball, Cones, Resistance Bands, Gym Access",Parent/Coach Oversight Required
+A028,14,Basketball,Small Forward,Beginner,Improve conditioning,None,2,"Basketball, Cones, Resistance Bands, Gym Access",Parent/Coach Oversight Required
+A029,13,Basketball,Point Guard,Beginner,Improve shooting,Minor Shoulder Pain,6,"Basketball, Gym Access",Parent/Coach Oversight Required
+A030,17,Basketball,Power Forward,Intermediate,Increase vertical jump,Minor Shoulder Pain,4,"Basketball, Cones",Parent/Coach Oversight Required
